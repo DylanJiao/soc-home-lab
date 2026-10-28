@@ -30,7 +30,7 @@ The VMs share a private internal network for testing. NAT adapters provide outbo
 - Nmap (open port): ![Nmap scan with Windows Listener enabled](../screenshots/02-nmap-open-port-remote-windowsVM-listener-enabled.png) 
 - Nmap (filtered port): ![Nmap scan with Windows Listener Disabled](../screenshots/02-nmap-filtered-port-remote-windowsVM-listener-disabled.png)
 
-## Results
+## Results and Findings
 - Windows to Kali ping: Pass
 - Kali to Windows ping: Pass
 - TCP 8080 with listener running: Open
