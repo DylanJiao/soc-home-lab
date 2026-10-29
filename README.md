@@ -25,6 +25,6 @@ The lab will initially contain:
 - [x] Checkpoint 1 - Initial repository setup on GitHub.
 - [x] [Checkpoint 2 - Virtual environment setup and basic network connectivity testing](notes/02-virtual-environment.md)
 - [x] [Checkpoint 3 - Windows event log investigation](notes/03-windows-event-log-investigation.md)
-- [ ] Checkpoint 4
+- [x] [Checkpoint 4 - Sysmon installation and event analysis](notes/04-sysmon-endpoint-telemetry.md)
 - [ ] Checkpoint 5
 

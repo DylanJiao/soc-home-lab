@@ -4,9 +4,9 @@
 Investigate Windows event logs before utilizing Sysmon and Splunk.
 
 ## Lab Environment
-- Windows version: Windows 11 Pro 26H2
+- Windows VM: Windows 11 Pro 26H2
 - VM hostname: soc-win
-- Test accound: SOCStudent
+- Test account: SOCStudent
 
 ## Configuration and Testing
 1. Explored the Application, Securty, and System logs in Windows Event Viewer.
@@ -17,6 +17,7 @@ Investigate Windows event logs before utilizing Sysmon and Splunk.
 6. Executed PowerShell commands to generate process creation events.
 7. Generated a custom informational event in the Application log.
 8. Filtered and examined the resulting Windows events.
+9. Saved VM snapshots.
 
 ## Evidence
 - Failed authentication event: ![Failed login attempt with StudentSOC account](../screenshots/03-failed-login-event.png)

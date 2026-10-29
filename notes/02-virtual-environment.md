@@ -5,8 +5,8 @@ Build a controlled cybersecurity lab using VirtualBox, Kali Linux, and Windows 1
 
 ## Lab Environment
 - Hypervisor: Oracle VirtualBox 7.2.22
-- Attacker VM: Kali Linux 2026.2
-- Target VM: Windows 11 Pro 26H2
+- Kali Linux VM: Kali Linux 2026.2
+- Windows VM: Windows 11 Pro 26H2
 - Kali lab IP: 10.10.10.10/24
 - Windows lab IP: 10.10.10.20/24
 - Lab network: Internal Network (soclab)
