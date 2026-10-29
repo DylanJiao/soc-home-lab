@@ -23,8 +23,8 @@ The lab will initially contain:
 
 ## Project Status
 - [x] Checkpoint 1 - Initial repository setup on GitHub.
-- [x] [Checkpoint 2 - Virtual Environment Setup and Basic Network Connectivity Testing](notes/02-virtual-environment.md)
-- [ ] Checkpoint 3
+- [x] [Checkpoint 2 - Virtual environment setup and basic network connectivity testing](notes/02-virtual-environment.md)
+- [x] [Checkpoint 3 - Windows event log investigation](notes/03-windows-event-log-investigation.md)
 - [ ] Checkpoint 4
 - [ ] Checkpoint 5
 
