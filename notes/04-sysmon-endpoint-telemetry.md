@@ -25,7 +25,7 @@ Install and configure Microsoft Sysmon on the Windows VM. Generate normal proces
 
 ## Results and Findings
 - Sysmon installed and sysmon service running.
-- Sysmon Operational log: 
+- Sysmon Operational log: Confirmed to provide detailed endpoint activity.
 - Process creation: Event ID 1; process=whoami.exe, commandline=whoami, parent process=cmd.exe.
 - Network connection: Event ID 3; initiated=true; source IP=10.10.10.20 (Windows VM), destination IP=10.10.10.10 (Kali VM), destination port=8080.
 - Native Windows Event ID 4688 provides process creation information when auditing is enabled. Sysmon Event ID 1 adds fields such as ProcessGuid and executable hashes. Event ID 3 associates network connections with processes.
