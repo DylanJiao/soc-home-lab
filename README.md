@@ -1,5 +1,5 @@
 # SOC Home Lab
-A hands-on SOC home-lab for learning networking and cybersecurity concepts and practicing technical skills.
+A hands-on home lab for learning and building pratical networking, security monitoring, and incident investigation skills.
 
 ## Learning Objectives
 With this project, I plan to practice and improve my understanding of:
